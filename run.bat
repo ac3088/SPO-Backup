@@ -1,0 +1,1 @@
+pwsh.exe -ExecutionPolicy RemoteSigned -file "./script.ps1" 
